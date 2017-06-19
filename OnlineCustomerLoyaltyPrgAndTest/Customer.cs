@@ -12,7 +12,15 @@ namespace OnlineCustomerLoyaltyPrgAndTestNS
 
         public Customer()
         {
-            Id = new Guid();
+            Id = Guid.NewGuid();
+        }
+
+        int points;
+
+        public int getMyPointsForPurchase(ProductVendor vendor, int productId, int qty)
+        {
+            points = vendor.requirePoints(this, productId, qty);
+            return points;
         }
 
         // TODO ELEV opret metoden getMyPointsForPurchase(vendor, productId, qty)

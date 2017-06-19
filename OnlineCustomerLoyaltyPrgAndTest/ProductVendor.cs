@@ -56,6 +56,8 @@ namespace OnlineCustomerLoyaltyPrgAndTestNS
                 if(!customerPurchases.ContainsKey(customer.Id.ToString() + itemId.ToString()))
                 {
                     boostReward = (int)Math.Ceiling(pointList[itemId] / 2.0) ;
+                    //nemmere at tilføje her in i customer V
+                    customerPurchases[customer.Id.ToString() + itemId.ToString()] = itemId;
                 }
                  
                 PointSaldo += (pointList[itemId] + boostReward) * qty;

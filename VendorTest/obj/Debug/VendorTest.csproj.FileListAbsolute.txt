@@ -1,0 +1,9 @@
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\obj\Debug\VendorTest.csprojResolveAssemblyReference.cache
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\bin\Debug\VendorTest.dll
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\bin\Debug\VendorTest.pdb
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\bin\Debug\CustomerTest.dll
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\bin\Debug\OnlineCustomerLoyaltyPrgAndTest.exe
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\bin\Debug\CustomerTest.pdb
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\bin\Debug\OnlineCustomerLoyaltyPrgAndTest.pdb
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\obj\Debug\VendorTest.dll
+C:\Users\henr9274\Documents\Opgave\C#\UnitTest\OnlineCustomerLoyaltyPrgAndTest-master\OnlineCustomerLoyaltyPrgAndTest-master\VendorTest\obj\Debug\VendorTest.pdb
